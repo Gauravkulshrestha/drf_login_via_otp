@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
+API_KEY = '801eaefc-9aed-11ec-a4c2-0200cd936042'
+
 AUTH_USER_MODEL = "users.User"
 
 MIDDLEWARE = [
